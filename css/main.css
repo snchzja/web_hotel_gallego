@@ -28,7 +28,11 @@ body {
 }
 
 #mapa{
-      text-align: center;
+    text-align: center;
+      
+}
+#googlemaps{
+     width: 100%;
 }
 
 .borde{
@@ -60,7 +64,7 @@ body {
 }
 
 #gps, #telefono{
-  width: 5%;
+  width: 6%;
 }
 
 #aire_frio, #wifi, #banio, #cochera, #desayuno, #ducha, #agua_caliente{
